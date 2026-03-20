@@ -9,9 +9,9 @@ Put files in the same directory to keep it simple:
 3) From the shell run:
 python3 mudlet_json_to_tintin.py exportedmudletmapname.json > new_map.tin
 4) From within tintin++:
-
-#read new_map.tin
-
-#map write final_map.map
+   
+    #read new_map.tin
+   
+    #map write final_map.map
 
 thats it!
